@@ -15,7 +15,7 @@ Build a file-based key-value data store that supports the basic CRD (create, rea
 
 
 ## ACCESSING THE LIBRARY
- **EXICUTING THE BASIC CRD (create, read, and delete) OPERATIONS.
+ **EXICUTING THE BASIC CRD (create, read, and delete) OPERATIONS.**
 ![](images/datastore1.PNG)
 
 ![](images/datastore2.PNG)
